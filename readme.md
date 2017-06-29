@@ -12,7 +12,7 @@ Clone the repository
 Open the HTML file
 
 ## Known Bugs
-None!!
+None
 
 ## Support and Contact Details
 Bryan Lin - bryanlin39@gmail.com
